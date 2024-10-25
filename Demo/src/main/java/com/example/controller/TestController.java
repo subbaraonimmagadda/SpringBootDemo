@@ -8,7 +8,7 @@ public class TestController {
 	
 	@RequestMapping("/home")
 	public String hello() {
-		return "welcome to Gspann";
+		return "praise the lord";
 	}
 
 }
